@@ -1,0 +1,603 @@
+# Copyright (C) 2016 mudThemes
+# This file is distributed under the GNU General Public License, v2 (or newer).
+msgid ""
+msgstr ""
+"Project-Id-Version: Corpus 1.0.1.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/corpus\n"
+"POT-Creation-Date: 2016-10-05 06:46:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-01-19 16:35+0530\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.5\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: archive.php:12
+msgid "Daily Archives:"
+msgstr "Dagelijkse Achieven:"
+
+#: archive.php:14
+msgid "Monthly Archives:"
+msgstr "Maandelijkse Archieven:"
+
+#: archive.php:14
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:16
+msgid "Yearly Archives:"
+msgstr "Jaarlijkse Archieven:"
+
+#: archive.php:16
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:18
+msgid "Blog Archives"
+msgstr "Blog Archieven"
+
+#: archive.php:22
+msgid "Archive of posts published in the specified"
+msgstr "Archief van berichten gepubliceerd in het opgegeven"
+
+#: author.php:10
+msgid "Author Archives"
+msgstr "Auteur archief"
+
+#: author.php:17
+msgid "Archive of the posts written by author:"
+msgstr "Archief van de berichten geschreven door de auteur:"
+
+#: category.php:10
+msgid "Category Archives"
+msgstr "﻿Categorie archief"
+
+#: category.php:18
+msgid "Archive of posts published in the category:"
+msgstr "Archief van berichten gepubliceerd in het opgegeven:"
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments"
+msgstr ""
+"Dit bericht is beveiligd met een wachtwoord. Voer het wachtwoord in om "
+"eventuele opmerkingen te bekijken"
+
+#: comments.php:21
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr "Eerdere Opmerkingen"
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr "Neuwere Omerkingen"
+
+#: comments.php:40
+msgid "Sorry, Comments are closed."
+msgstr "Sorry, reacties zijn gesloten."
+
+#: footer.php:12
+msgid "Copyright"
+msgstr "Ateursrechten"
+
+#: footer.php:12
+msgid "Powered by"
+msgstr "Aangedreven door"
+
+#: footer.php:12
+msgid "Corpus theme by"
+msgstr "Corpus thema door"
+
+#: functions.php:97
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:160 functions.php:162
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:171 functions.php:173
+msgid "Footerbox Sidebar #1"
+msgstr ""
+
+#: functions.php:182 functions.php:184
+msgid "Footerbox Sidebar #2"
+msgstr ""
+
+#: functions.php:193 functions.php:195
+msgid "Footerbox Sidebar #3"
+msgstr ""
+
+#: functions.php:384 includes/customizer.php:880
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:385 includes/customizer.php:893
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:386
+msgid "RSS feed"
+msgstr ""
+
+#: functions.php:419
+msgid "Ooops! Nothing Found"
+msgstr "Ooops! Niets Gevonden"
+
+#: functions.php:421 functions.php:423
+msgid "Nothing found for:"
+msgstr "Niets gevonden voor:"
+
+#: functions.php:430
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Excuses, maar er zijn geen resultaten gevonden voor het gevraagde archief. "
+"Misschien helpt zoeken om een gerelateerde post te vinden."
+
+#: functions.php:447
+msgid "Day"
+msgstr "Dag"
+
+#: functions.php:449
+msgid "Month"
+msgstr "Maand"
+
+#: functions.php:451
+msgid "Year"
+msgstr "Jaar"
+
+#: functions.php:453
+msgid "Period"
+msgstr "Periode"
+
+#: functions.php:476
+msgid "Newer posts"
+msgstr "Nieuwere posts"
+
+#: functions.php:477
+msgid "Older posts"
+msgstr "Oudere posts"
+
+#: functions.php:510 functions.php:515
+msgid "home"
+msgstr "huis"
+
+#: functions.php:537
+msgid "Your comment is awaiting moderation."
+msgstr "Je opmerking moet nog beoordeeld worden."
+
+#: functions.php:550
+msgid "ago"
+msgstr "geleden"
+
+#: functions.php:558 functions.php:572
+msgid "(Edit)"
+msgstr "(Bewerk)"
+
+#: functions.php:572
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:619 includes/customizer.php:506 includes/customizer.php:567
+#: includes/customizer.php:628 includes/customizer.php:689 loop.php:24
+#: loop.php:29
+msgid "Read more"
+msgstr "Lees verder"
+
+#: header.php:40
+msgid "Menu"
+msgstr ""
+
+#: home.php:12
+msgid "Our Blog"
+msgstr "Onze blog"
+
+#: includes/customizer.php:25
+msgid "General"
+msgstr ""
+
+#: includes/customizer.php:32 includes/customizer.php:68
+#: includes/customizer.php:731
+msgid "Header"
+msgstr ""
+
+#: includes/customizer.php:39 includes/customizer.php:49
+msgid "Site Logo"
+msgstr ""
+
+#: includes/customizer.php:61
+msgid "Layout"
+msgstr ""
+
+#: includes/customizer.php:78
+msgid "Hide Header"
+msgstr ""
+
+#: includes/customizer.php:91
+msgid "Hide Site Description"
+msgstr ""
+
+#: includes/customizer.php:103 includes/customizer.php:863
+msgid "Social"
+msgstr ""
+
+#: includes/customizer.php:113
+msgid "Disable Social Section"
+msgstr ""
+
+#: includes/customizer.php:125 includes/customizer.php:208
+msgid "Slideshow"
+msgstr ""
+
+#: includes/customizer.php:135
+msgid "Disable Slideshow Section"
+msgstr ""
+
+#: includes/customizer.php:147 includes/customizer.php:464
+msgid "Headbox"
+msgstr ""
+
+#: includes/customizer.php:157
+msgid "Disable Headbox Section (Entire Site)"
+msgstr ""
+
+#: includes/customizer.php:170
+msgid "Disable Headbox Section (Homepage Only)"
+msgstr ""
+
+#: includes/customizer.php:183
+msgid "Disable Headbox Section (Posts Only)"
+msgstr ""
+
+#: includes/customizer.php:196
+msgid "Disable Headbox Section (Pages Only)"
+msgstr ""
+
+#: includes/customizer.php:215
+msgid "Slide 1"
+msgstr ""
+
+#: includes/customizer.php:225 includes/customizer.php:299
+msgid "Slide Image"
+msgstr ""
+
+#: includes/customizer.php:237
+msgid "Elegant and Stylish Theme"
+msgstr "Elegant en Stijlvol thema"
+
+#: includes/customizer.php:238 includes/customizer.php:312
+msgid "Slide Heading"
+msgstr ""
+
+#: includes/customizer.php:250
+msgid ""
+"Beautiful and Attractive Layout with Theme Options to configure settings "
+"easily."
+msgstr ""
+"Mooie en aantrekkelijke lay-out met thema-opties om instellingen gemakkelijk "
+"te configureren."
+
+#: includes/customizer.php:251 includes/customizer.php:325
+msgid "Slide Content"
+msgstr ""
+
+#: includes/customizer.php:263
+msgid "See Documentation"
+msgstr "Zie Documentatie"
+
+#: includes/customizer.php:264 includes/customizer.php:338
+msgid "Slide Button (Text)"
+msgstr ""
+
+#: includes/customizer.php:277 includes/customizer.php:351
+msgid "Slide Button (URL)"
+msgstr ""
+
+#: includes/customizer.php:289
+msgid "Slide 2"
+msgstr ""
+
+#: includes/customizer.php:363
+msgid "Settings"
+msgstr ""
+
+#: includes/customizer.php:373
+msgid "Slide Speed (microseconds)"
+msgstr ""
+
+#: includes/customizer.php:386
+msgid "Slide Animation Speed (microseconds)"
+msgstr ""
+
+#: includes/customizer.php:399 includes/customizer.php:426
+msgid "Disable Slide Navigation"
+msgstr ""
+
+#: includes/customizer.php:412
+msgid "Disable Smooth Height"
+msgstr ""
+
+#: includes/customizer.php:439
+msgid "Animation Type"
+msgstr ""
+
+#: includes/customizer.php:445
+msgid "fade"
+msgstr ""
+
+#: includes/customizer.php:445
+msgid "slide"
+msgstr ""
+
+#: includes/customizer.php:452
+msgid "Slideshow Direction"
+msgstr ""
+
+#: includes/customizer.php:458
+msgid "horizontal"
+msgstr ""
+
+#: includes/customizer.php:458
+msgid "vertical"
+msgstr ""
+
+#: includes/customizer.php:471
+msgid "Column 1"
+msgstr ""
+
+#: includes/customizer.php:480
+msgid "Suspendisse Efficitur Fringilla"
+msgstr ""
+
+#: includes/customizer.php:481 includes/customizer.php:542
+#: includes/customizer.php:603 includes/customizer.php:664
+msgid "Headbox Title"
+msgstr ""
+
+#: includes/customizer.php:493
+msgid ""
+"Felis non dui efficitur suscipit. Nulla gravida dolor quis tellus mattis, "
+"vel viverra risus tincidunt. Quisque in luctus lorem."
+msgstr ""
+
+#: includes/customizer.php:494 includes/customizer.php:555
+#: includes/customizer.php:616 includes/customizer.php:677
+msgid "Headbox Content"
+msgstr ""
+
+#: includes/customizer.php:507 includes/customizer.php:568
+#: includes/customizer.php:629 includes/customizer.php:690
+msgid "Headbox Button (Text)"
+msgstr ""
+
+#: includes/customizer.php:520 includes/customizer.php:581
+#: includes/customizer.php:642 includes/customizer.php:703
+msgid "Headbox Button (URL)"
+msgstr ""
+
+#: includes/customizer.php:532
+msgid "Column 2"
+msgstr ""
+
+#: includes/customizer.php:541
+msgid "Commodo Cursus Odio"
+msgstr ""
+
+#: includes/customizer.php:554
+msgid ""
+"Morbi lectus mi, molestie et blandit ut, finibus a est. Nullam at ligula in "
+"urna mollis dictum. Nullam aliquam pulvinar."
+msgstr ""
+
+#: includes/customizer.php:593
+msgid "Column 3"
+msgstr ""
+
+#: includes/customizer.php:602
+msgid "Vestibulum Vitae Dictum"
+msgstr ""
+
+#: includes/customizer.php:615
+msgid ""
+"Etiam eu sem pretium, sodales nulla in, elementum lacus. Vestibulum vitae "
+"elit dictum, pellentesque massa sed."
+msgstr ""
+
+#: includes/customizer.php:654
+msgid "Column 4"
+msgstr ""
+
+#: includes/customizer.php:663
+msgid "Nullam Aliquam Pulvinar"
+msgstr ""
+
+#: includes/customizer.php:676
+msgid ""
+"Tellus mattis vel viverra risus tincidunt. Quisque in luctus lorem ut "
+"finibus a est molestie et blandit vitae elit dictum."
+msgstr ""
+
+#: includes/customizer.php:715
+msgid "Colors"
+msgstr ""
+
+#: includes/customizer.php:722
+msgid "Global"
+msgstr ""
+
+#: includes/customizer.php:741
+msgid "Site Title Color"
+msgstr ""
+
+#: includes/customizer.php:754
+msgid "Site Description Color"
+msgstr ""
+
+#: includes/customizer.php:766
+msgid "Posts/Pages"
+msgstr ""
+
+#: includes/customizer.php:777
+msgid "Post Title Color (Page/Post)"
+msgstr ""
+
+#: includes/customizer.php:790
+msgid "Post Meta Color (Page/Posts)"
+msgstr ""
+
+#: includes/customizer.php:803
+msgid "Post Content Color (Page/Posts)"
+msgstr ""
+
+#: includes/customizer.php:815
+msgid "Blog"
+msgstr ""
+
+#: includes/customizer.php:825
+msgid "Post Title Color (Blog)"
+msgstr ""
+
+#: includes/customizer.php:838
+msgid "Post Meta Color (Blog)"
+msgstr ""
+
+#: includes/customizer.php:851
+msgid "Post Content Color (Blog)"
+msgstr ""
+
+#: includes/customizer.php:870
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/customizer.php:906
+msgid "RSS"
+msgstr ""
+
+#: includes/customizer.php:918
+msgid "About Corpus Theme"
+msgstr "Over Corpus Theme"
+
+#: includes/customizer.php:1052
+msgid "Upgrade to Premium"
+msgstr "Upgrade naar premium"
+
+#: includes/customizer_extended.php:19
+msgid "Theme Documentation"
+msgstr "Theme Documentatie"
+
+#: includes/customizer_extended.php:20
+msgid "Contact us"
+msgstr "Neem contact met ons op"
+
+#: loop.php:12
+msgid "Permalink to"
+msgstr "Permalink naar"
+
+#: loop.php:14
+msgid "Written on"
+msgstr "Geschreven op"
+
+#: loop.php:15
+msgid "by"
+msgstr "door"
+
+#: loop.php:16
+msgid "No comments yet"
+msgstr "Nog geen reacties"
+
+#: loop.php:16 single.php:29
+msgid "1 comment"
+msgstr "1 reactie"
+
+#: loop.php:16 single.php:29
+msgid "comments"
+msgstr "opmerkingen"
+
+#: loop.php:16
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: loop.php:32 page.php:21 single.php:37
+msgid "Pages:"
+msgstr "Pgina's:"
+
+#: page.php:25 single.php:41
+msgid "Edit"
+msgstr "Bewerk"
+
+#: search.php:10
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: search.php:13
+msgid "We have found following content based on your search query:"
+msgstr "We hebben de volgende inhoud gevonden op basis van uw zoekopdracht:"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "Zoeken..."
+
+#: searchform.php:11
+msgid "Go"
+msgstr "Gaan"
+
+#: sidebar.php:14
+msgid "Recent Posts"
+msgstr "Rcente Brichten"
+
+#: sidebar.php:19
+msgid "Search"
+msgstr "Zoeken"
+
+#: single.php:20
+msgid "By"
+msgstr "Door"
+
+#: single.php:29
+msgid "Leave a reply"
+msgstr "Laat een antwoord achter"
+
+#: single.php:42
+msgid "Tags: "
+msgstr "Tags: "
+
+#: tag.php:10
+msgid "Tag Archives"
+msgstr "Label Archieven"
+
+#: tag.php:18
+msgid "Archive of posts published in the tag:"
+msgstr "Archief van berichten gepubliceerd in de tag:"
+
+#. Theme Name of the plugin/theme
+msgid "Corpus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.mudthemes.com/corpus"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Corpus is a responsive theme for corporate or blogging sites. It supports "
+"slideshow, custom menu and sidebars. It has full online documentation and is "
+"easily customizable using Theme Customizer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "mudThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mudthemes.com"
+msgstr ""
